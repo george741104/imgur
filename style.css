@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/**
+ *
+ * @authors Your Name (you@example.org)
+ * @date    2015-06-15 14:08:51
+ * @version $Id$
+ */
+
+.mt{
+  margin-top: 48px;
+}
+.ml{
+  margin-left: 15px;
+}
+
+.mts{
+  margin-top: 25px;
+}
+.fll{
+  float: left;
+  margin-left: 20px;
+}
+/*img{
+    width: 100%;
+    height :auto;
+}*/
+
+.clr{
+  clear: right;
+}
+.fll{
+  float: right;
+  margin-right: 30px;
+}
+.left{
+  float:left;
+  width:60%;
+}
+.main{
+  float:left;
+  width: 65%;
+
+}
+.side{
+float: left;
+}
+
+.to_right{
+  float:right;
+  background-image: linear-gradient(to bottom,#84ffaa 0,#38e068 100%);
+  color: #fcfcfc;
+}
+.fb{
+  background: url('https://cdn0.iconfinder.com/data/icons/yooicons_set01_socialbookmarks/512/social_facebook_box_white.png');
+  background-position:center;
+  background-repeat:no-repeat;
+}
+.float_right{
+  float: right;
+}
+.float_left{
+  float: left;
+}
+
